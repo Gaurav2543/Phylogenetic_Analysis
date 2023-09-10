@@ -1,0 +1,10 @@
+inf,-319.0,-167.0,-309.0,-305.0,-293.0,-311.0,-308.0,-230.0,-283.0
+inf,inf,-132.0,-520.0,-466.0,-482.0,-465.0,-516.0,-353.0,-445.0
+inf,inf,inf,-150.0,-159.0,-138.0,-176.0,-130.0,-128.0,-148.0
+inf,inf,inf,inf,-483.0,-491.0,-455.0,-582.0,-366.0,-479.0
+inf,inf,inf,inf,inf,-441.0,-426.0,-480.0,-333.0,-442.0
+inf,inf,inf,inf,inf,inf,-493.0,-488.0,-317.0,-402.0
+inf,inf,inf,inf,inf,inf,inf,-451.0,-266.0,-401.0
+inf,inf,inf,inf,inf,inf,inf,inf,-349.0,-476.0
+inf,inf,inf,inf,inf,inf,inf,inf,inf,-334.0
+inf,inf,inf,inf,inf,inf,inf,inf,inf,inf
